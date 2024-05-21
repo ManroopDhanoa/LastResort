@@ -19,7 +19,7 @@ LastResort uses a number of open source projects to work properly:
 - [SQLite3](https://docs.python.org/3/library/sqlite3.html)- SQL database engine used to store data
 - [Hashlib](https://docs.python.org/3/library/hashlib.html)- Secure hashes and message digests
 
-# Running the Program
+## Running the Program
 Run the Python program and follow the simple prompts that follow.
 
 > Make sure to remember the master key you created
