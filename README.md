@@ -26,4 +26,4 @@ Run the Python program and follow the simple prompts that follow.
 
 Running through a CLI:
 ```sh
-python3 LastReort.py
+python3 LastResort.py
